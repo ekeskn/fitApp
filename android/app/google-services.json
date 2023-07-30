@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110826154388",
+    "firebase_url": "https://finalproject-16278-default-rtdb.firebaseio.com",
+    "project_id": "finalproject-16278",
+    "storage_bucket": "finalproject-16278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110826154388:android:e16c10a635e45bbe0b8781",
+        "android_client_info": {
+          "package_name": "com.denek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110826154388-q43mfhmrlmt279k5hul9s8hdntu26omu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBtHct1aOy_k3GJTujwIDYcs-H-yHZkeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110826154388-q43mfhmrlmt279k5hul9s8hdntu26omu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

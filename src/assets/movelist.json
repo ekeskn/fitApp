@@ -1,0 +1,38 @@
+[
+    {
+      "id": 0,
+      "name": "Boxing",
+      "detail": "Powerful upper body workout, boost strength and endurance.",
+      "lottie": "'../../Animations/boxing.json'",
+      "longDetail" : " This dynamic exercise involves throwing punches with alternating arms, engaging your upper body and core muscles. It is a great cardio workout that helps improve upper body strength, coordination, and endurance. Incorporate punches into your fitness routine for an effective way to relieve stress and boost your overall fitness levels."
+    },
+    {
+      "id": 1,
+      "name": "Crunches",
+      "detail": "Core-strengthening exercise for toned abs and improved stability",
+      "lottie": "'../../Animations/crunches.json'",
+      "longDetail" :"A classic core exercise targeting the abdominal muscles. Effective for toning the midsection and building core strength. Incorporate crunches into your routine for better posture and enhanced stability. Strengthen your core with this essential ab workout"
+    },
+    {
+      "id": 2,
+      "name": "Push Up",
+      "detail": "Upper body bodyweight exercise targeting chest, shoulders, and triceps.",
+      "lottie": "'../../Animations/pushup.json'",
+      "longDetail" :"A classic core exercise targeting the abdominal muscles. Effective for toning the midsection and building core strength. Incorporate crunches into your routine for better posture and enhanced stability. Strengthen your core with this essential ab workout"
+    },
+    {
+      "id": 3,
+      "name": "Split Jump",
+      "detail": "Explosive plyometric exercise for lower body strength and agility.",
+      "lottie": "'../../Animations/splitjump.json'",
+      "longDetail" :"Split Jump is a plyometric exercise that focuses on the lower body, including the quadriceps, hamstrings, glutes, and calves. It is performed by starting in a lunge position with one foot forward and the other foot back. Explosively jump into the air, switching the positions of the legs, and land softly in the opposite lunge position"
+    },
+    {
+      "id": 4,
+      "name": "T-Plank",
+      "detail": "Core-strengthening exercise with rotation, engaging abs and obliques.",
+      "lottie": "'../../Animations/tplank.json'",
+      "longDetail" :"T-Plank is a challenging core exercise that targets the entire midsection, including the abdominals, obliques, and shoulders. Begin in a traditional plank position with forearms on the ground and body in a straight line from head to heels. Lift one arm off the ground and rotate the body into a side plank position, forming a T-shape with the arms. Return to the starting plank and switch sides to complete repetitions."
+    }
+  ]
+  
