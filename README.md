@@ -1,3 +1,14 @@
+
+
+
+![Screenshot_1690736126](https://github.com/ekeskn/fitApp/assets/96025028/81338dcb-51ae-4a7b-b74c-22ae5feb124c)
+![Screenshot_1690736115](https://github.com/ekeskn/fitApp/assets/96025028/dd5ce291-1cdf-4347-9684-f691c93048e9)
+![Screenshot_1690736110](https://github.com/ekeskn/fitApp/assets/96025028/46ca8b1b-7e99-47f9-aa4a-cb04f6315ef7)
+![Screenshot_1690736103](https://github.com/ekeskn/fitApp/assets/96025028/fb6b840e-b6e2-47f0-a787-a8efcc7ec21e)
+![Screenshot_1690736096](https://github.com/ekeskn/fitApp/assets/96025028/09fe3032-a947-470a-8b8e-1eddd6dded99)
+![Screenshot_1690736070](https://github.com/ekeskn/fitApp/assets/96025028/627ced1a-1fd1-41e6-a8b9-fa316e284d32)
+![Screenshot_1690736063](https://github.com/ekeskn/fitApp/assets/96025028/95bec938-a9e6-4d88-bd5c-b09201af7363)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
